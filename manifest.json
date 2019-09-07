@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "GoogleVidsToYT",
+  "version": "1.0",
+
+  "description": "Clicking 'videos' on google search redirects the search to YouTube",
+
+  "icons": {
+    "48": "icons/icon_48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/search*"],
+      "js": ["GoogleVidsToYT.js"]
+    }
+  ]
+
+}
