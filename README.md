@@ -2,4 +2,4 @@
 
 Chrome extension to convert the google search 'videos' tab to YouTube
 
-[Download on Chrome WebStore!](chrome.google.com/webstore/detail/googlevidstoyt/icooecpkkojhhfahpphhagfalfmjfjjo)
+[Download on Chrome WebStore!](https://chrome.google.com/webstore/detail/googlevidstoyt/icooecpkkojhhfahpphhagfalfmjfjjo)
